@@ -1,0 +1,5 @@
+pyodbc
+anthropic
+fastapi
+uvicorn
+python-dotenv
